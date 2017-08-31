@@ -1,0 +1,11 @@
+﻿usage:
+> MyMMLChecker input.mml.txt [-v] [-h]
+> MyMMLChecker input.mml.txt [-v] [-h] -o output.wav [-f 44100] [-b 16]
+> MyMMLChecker input.mml.txt [-v] [-h] -p [-m 1.0]
+-v: verbose
+-h: Hit Any Key!
+-p: Play direct
+-m: master volume
+-o: Output to file
+-f: frequency
+-b: bps
