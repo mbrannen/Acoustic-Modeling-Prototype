@@ -1,3 +1,3 @@
 # Acoustic-Modeling-Prototype
 1st Place Prototype I developed during my senior year.  
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Video Demonstration](https://www.youtube.com/watch?v=bZ7ZAWRFT6g "Software Video Demo")
